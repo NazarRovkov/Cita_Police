@@ -1,7 +1,7 @@
 import requests
 
-BOT_TOKEN = "5539436389:AAHnJDtG0gOk8BlHdZQ4dWsykMmKV4VUMjc"
-BOT_CHATID = "509622910"
+BOT_TOKEN = "Your telegram token"
+BOT_CHATID = "Your telegram chat ID"
 
 
 class NotificationManager:
